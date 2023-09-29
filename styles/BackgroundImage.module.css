@@ -1,0 +1,10 @@
+@media (min-width: 992px) {
+    #header-carousel,
+    .header {
+      margin-top: -42px;
+    }
+  }
+  .header {
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../Images/header-image.jpg), no-repeat center center;
+    background-size: cover;
+  }

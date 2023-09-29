@@ -1,0 +1,21 @@
+.container {
+    text-align: center;
+    padding: 16px;
+    margin-top: 10px;
+  }
+  
+  .header {
+    margin-bottom: 16px;
+  }
+  
+  .serviceItem {
+    padding: 8px;
+    text-align: center;
+  }
+  
+  .serviceImage {
+    width: 85px;
+    height: 85px;
+    /* margin-bottom: 8px; */
+  }
+  

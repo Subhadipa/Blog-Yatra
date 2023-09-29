@@ -1,0 +1,12 @@
+/* DropdownMenuStyles.module.css */
+
+/* Custom styles to remove the border around the Select component */
+.selectFormControl {
+    min-width: 120px;
+  }
+  
+  .selectFormControl .MuiOutlinedInput-root {
+    border: none;
+    border-color: white;
+  }
+  

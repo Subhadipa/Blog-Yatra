@@ -1,0 +1,49 @@
+.main {
+    margin-top: -50px;
+  }
+  
+  .section {
+    margin-top: 5rem;
+  }
+  
+  .image {
+    margin-top: 150px;
+    margin-left: -130px;
+  }
+  
+  .formContainer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+  }
+  
+  .formPaper {
+    padding: 16px;
+    width: 100%;
+    
+  }
+  
+  .formTitle {
+    text-align: center;
+    font-weight: bold;
+    color: #333; 
+    margin-bottom: 30px;
+  }
+  
+  .formIcon {
+    color: #F08000;
+    position: absolute;
+    top: 50%;
+    left: 10px;
+    transform: translateY(-50%);
+  }
+  
+  .submitButton {
+    margin-top: 20px;
+    background-color: #F08000;
+  }
+  .submitButton:hover{
+    background-color:#F08000;
+  
+  }
